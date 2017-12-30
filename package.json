@@ -14,5 +14,9 @@
     "unix"
   ],
   "author": "SplitPixl",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "parse-passwd": "^1.0.0",
+    "passport-local": "^1.0.0"
+  }
 }
