@@ -1,5 +1,5 @@
 {
-  "name": "pasport-su",
+  "name": "passport-su",
   "version": "0.0.1",
   "description": "A tool for checking the username and password of a user on the host computer",
   "main": "index.js",
